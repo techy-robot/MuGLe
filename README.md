@@ -1,4 +1,4 @@
-# MuGLe
+# MuGLE
 
 You can code music, but what if music could code? The primary goal of this is to make computer interaction pleasurable and the language semi-intuitive. The acronym stands for Musical Gesture Language, plus it rythms with "Bugle" and I like Muggles (Harry Potter ref.)
 
